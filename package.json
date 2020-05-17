@@ -1,0 +1,25 @@
+{
+  "name": "criptografia_de_julio",
+  "version": "1.0.0",
+  "description": "Desafio oferecido pelo platafornma codenation.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroLimass/criptografia_de_julio.git"
+  },
+  "author": "PedroLimass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroLimass/criptografia_de_julio/issues"
+  },
+  "homepage": "https://github.com/PedroLimass/criptografia_de_julio#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2"
+  }
+}
